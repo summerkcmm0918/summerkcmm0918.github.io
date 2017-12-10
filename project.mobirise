@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-10_1923",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -19,7 +19,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "王凱號",
+        "title": "王凱誠",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -317,8 +317,8 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.1"
           },
-          "title": "<br>資2-2 王凱號",
-          "text": "4210504054",
+          "title": "<br>資2-2 王凱誠<br>",
+          "text": "<b>4210504054</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -332,6 +332,9 @@
             },
             "P": {
               "font-size": "48px"
+            },
+            "B": {
+              "font-size": "36px"
             }
           }
         }
